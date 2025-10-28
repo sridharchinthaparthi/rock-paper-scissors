@@ -41,7 +41,7 @@ cd rock-paper-scissors
 
 3. Run the game:
 ```bash
-python rock_paper_scissors.py
+python rock_paper_scissor.py
 ```
 
 ## 🎮 How to Play
@@ -119,5 +119,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Give a ⭐️ if you enjoyed this project!
 
 ---
+
 
 **Happy Gaming! 🎲**
